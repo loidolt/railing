@@ -1,53 +1,31 @@
 ---
 published: true
-status: in_progress/complete/archived
-date: 10/19/2018
-tags: tagname
-description:
-slug: title-kebab-case
+status: complete
+date: 10/28/2019
+tags: metalworking, house
+description: Modern railing built from 1 1/4 square tube steel for our house.
+slug: railing
 ---
-# Title
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+
+# Railing
+
+Modern railing built from 1 1/4 square tube steel for our house.
 
 ## Table of Contents
-- [Title](#title)
+
+- [Railing](#railing)
   - [Table of Contents](#table-of-contents)
   - [General Info](#general-info)
   - [Technologies](#technologies)
-  - [Setup](#setup)
-  - [Usage](#usage)
-  - [Notes](#notes)
-  - [Sources](#sources)
 
 ## General Info
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
+I built this railing for our new home after pricing similar commercial options.
+
+The construction is fairly simple, just vertical posts every 4 inches following the necessary angles. Grinding and painting all of this was a bit of a chore but otherwise, it went fairly well.
+
+Be sure to double-check real-world dimensions when doing a project like this, before and after the trim goes on.
 
 ## Technologies
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
 
-## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
-
-## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
-
-## Notes
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-
-## Sources
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
+- Sketchup
